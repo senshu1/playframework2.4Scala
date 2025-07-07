@@ -1,0 +1,21 @@
+@(userForm: Form[controllers.FormController.UserData])
+
+@main("フォーム入力") {
+<h1>ユーザーフォーム</h1>
+
+@if(userForm.hasErrors) {
+<p style="color: red;">エラーがあります。すべての項目を正しく入力してください。</p>
+}
+
+<form action="@routes.FormController.submitForm()" method="POST">
+    <p>
+        名前: <input type="text" name="name" value="@userForm(" name").value.getOrElse("")">
+        @userForm("name").error.map { err => <span style="color:red">@err.message</span> }
+    </p>
+    <p>
+        年齢: <input type="number" name="age" value="@userForm(" age").value.getOrElse("")">
+        @userForm("age").error.map { err => <span style="color:red">@err.message</span> }
+    </p>
+    <p><input type="submit" value="送信"></p>
+</form>
+}

@@ -1,0 +1,180 @@
+2025.07.02 20:34:42 INFO  Started: Metals version 1.6.0 in folders 'C:\Users\sensh\Downloads\play-2.4-app-fixed-full' for client Visual Studio Code 1.101.2.
+2025.07.02 20:35:13 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 20:35:16 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+7åé 02, 2025 8:35:16 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 1
+2025.07.02 20:35:16 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 20:35:16 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+7åé 02, 2025 8:35:16 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 4
+2025.07.02 20:35:16 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+7åé 02, 2025 8:35:16 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 7
+7åé 02, 2025 8:35:16 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 2
+7åé 02, 2025 8:35:16 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 16
+2025.07.02 20:35:17 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 20:35:19 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 20:35:19 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala
+2025.07.02 20:35:21 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 20:44:16 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 20:44:16 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala
+2025.07.02 20:44:16 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:01:57 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application copy.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:01:57 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application copy.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:01 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala
+2025.07.02 22:02:01 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:02 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:05 INFO  no build target found for c:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:05 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application copy.scala
+2025.07.02 22:02:05 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application copy.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:05 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application copy.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:07 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application copy.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:21 INFO  no build target found for c:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application copy.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:21 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:22 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:27 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:02:27 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:09:13 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:09:13 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:29 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala
+2025.07.02 22:16:29 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:29 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:39 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:39 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:39 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:40 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:39 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:40 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:40 INFO  Created report: Optional[file:///C:/Users/sensh/Downloads/play-2.4-app-fixed-full/app/controllers/Application.scala]
+2025.07.02 22:16:40 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\sensh\Downloads\play-2.4-app-fixed-full\.metals\.reports\metals-full\2025-07-02\r_empty-definition_22-16-40-931.md")
+2025.07.02 22:16:40 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:40 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:40 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:41 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:40 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:40 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:41 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:41 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:40 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\sensh\Downloads\play-2.4-app-fixed-full\.metals\.reports\metals-full\2025-07-02\r_empty-definition_22-16-40-931.md")
+2025.07.02 22:16:41 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:41 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\sensh\Downloads\play-2.4-app-fixed-full\.metals\.reports\metals-full\2025-07-02\r_empty-definition_22-16-40-931.md")
+2025.07.02 22:16:42 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:42 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\sensh\Downloads\play-2.4-app-fixed-full\.metals\.reports\metals-full\2025-07-02\r_empty-definition_22-16-40-931.md")
+2025.07.02 22:16:42 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:42 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:43 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:43 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:44 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:43 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:46 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\sensh\Downloads\play-2.4-app-fixed-full\.metals\.reports\metals-full\2025-07-02\r_empty-definition_22-16-40-931.md")
+2025.07.02 22:16:53 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:53 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:16:53 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala
+2025.07.02 22:16:53 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:17:05 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala
+2025.07.02 22:17:05 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:17:05 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:17:12 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:17:12 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:17:12 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:17:13 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala
+2025.07.02 22:17:13 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:17:13 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:17:27 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:02 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\models\UserData.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:02 WARN  Could not find semantic tokens for: file:///C:/Users/sensh/Downloads/play-2.4-app-fixed-full/app/models/UserData.scala
+2025.07.02 22:26:08 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\models\UserData.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:08 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\models\UserData.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:09 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\models\UserData.scala
+2025.07.02 22:26:09 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\models\UserData.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:09 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\models\UserData.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:20 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala
+2025.07.02 22:26:20 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:20 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:22 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:22 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:22 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:23 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:23 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+7åé 02, 2025 10:26:23 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 167
+2025.07.02 22:26:23 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:23 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+7åé 02, 2025 10:26:23 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 176
+2025.07.02 22:26:23 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:23 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:23 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala
+2025.07.02 22:26:23 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:30 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala
+2025.07.02 22:26:30 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:30 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:32 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:32 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:32 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:32 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:32 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:26:32 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala
+2025.07.02 22:26:32 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:30:48 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:30:48 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala
+2025.07.02 22:30:48 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:30:50 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:30:50 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:30:51 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:30:51 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:30:52 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala
+2025.07.02 22:30:52 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:02 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala
+2025.07.02 22:31:02 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:02 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:02 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:02 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:03 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:03 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:03 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:03 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:03 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:04 INFO  Created report: Optional[file:///C:/Users/sensh/Downloads/play-2.4-app-fixed-full/app/controllers/FormController.scala]
+2025.07.02 22:31:03 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:04 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\sensh\Downloads\play-2.4-app-fixed-full\.metals\.reports\metals-full\2025-07-02\r_empty-definition_22-31-04-143.md")
+2025.07.02 22:31:04 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:04 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:05 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala
+2025.07.02 22:31:05 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:31:05 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:10 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala
+2025.07.02 22:35:10 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:10 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:10 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:10 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:10 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Exception in thread "pool-64-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025.07.02 22:35:10 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:11 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:11 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:11 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\sensh\Downloads\play-2.4-app-fixed-full\.metals\.reports\metals-full\2025-07-02\r_empty-definition_22-31-04-143.md")
+2025.07.02 22:35:11 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:12 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:11 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:12 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\sensh\Downloads\play-2.4-app-fixed-full\.metals\.reports\metals-full\2025-07-02\r_empty-definition_22-31-04-143.md")
+2025.07.02 22:35:11 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:13 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:13 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:14 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:13 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:14 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:14 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:14 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:14 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\sensh\Downloads\play-2.4-app-fixed-full\.metals\.reports\metals-full\2025-07-02\r_empty-definition_22-31-04-143.md")
+2025.07.02 22:35:14 WARN  no build target for: C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala
+2025.07.02 22:35:14 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.02 22:35:14 INFO  no build target found for C:\Users\sensh\Downloads\play-2.4-app-fixed-full\app\controllers\FormController.scala. Using presentation compiler with project's scala-library version: 3.3.6

@@ -1,0 +1,2 @@
+GET     /form           controllers.FormController.showForm
+POST    /form           controllers.FormController.submitForm
